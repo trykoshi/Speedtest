@@ -1,2 +1,23 @@
-# Speedtest
-Bot Performance Speed Test Download Speed Upload Speed Ping Network Performance Internet Speed Latency Bandwidth Test Performance Monitoring Bot Optimization Speed Measurement Connection Speed Real-time Testing Python Script Bot Metrics Network Analysis Performance Tool Speedtest GitHub Repository
+🌟 KushiBotTest - Ultimate Bot Performance Testing Tool 🌟
+
+🚀 KushiBotTest is a powerful tool for testing your bot's download speed, upload speed, and ping! 🤖💥
+
+Easily assess your bots' performance to ensure they're ready for any challenge. 💪⚡
+
+🔧 Key Features:
+✅ Measure download speed in Mbps 📥
+✅ Measure upload speed in Mbps 📤
+✅ Check ping in milliseconds 📶
+
+📥 Installation and Startup:
+Open your terminal.
+Run the following command to clone and start KushiBotTest from GitHub:
+
+git clone https://github.com/your-repo/KushiBotTest.git && cd KushiBotTest && python3 KushiBotTest.py
+
+KushiBotTest will automatically display:
+Ping
+Download speed
+Upload speed 📊⚡
+
+🔗 Join us on Discord for more information and support! 🎮👥
