@@ -20,7 +20,7 @@ Open your terminal.
 Run the following command to clone and start KushiBotTest from GitHub:
 
 
-git clone https://github.com/Speedtest/KushiBotTest.git && cd KushiBotTest && python3 KushiBotTest.py
+git clone https://github.com/Speedtest/KushiBotTest.git && cd Speedtest && python3 KushiBotTest.py
 
 
 KushiBotTest will automatically display:
